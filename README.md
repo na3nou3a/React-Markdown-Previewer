@@ -10,6 +10,6 @@ FreeCodeCamp challenge
 
 - marked
 - Prism
-- fontAwesome
+- react icons
 
 [Codepen](https://codepen.io/naima1515/full/GROByaZ)
